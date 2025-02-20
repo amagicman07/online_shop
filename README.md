@@ -45,7 +45,7 @@ sudo systemctl status docker
   #
   - Move to the cloned repository
   ```bash
-  cd online-shop
+  cd online_shop
   ```
   #
   - Build the Dockerfile
