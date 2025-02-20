@@ -1,7 +1,7 @@
 # Online Shop – Hackathon Phase 1 
 - This is a Online Shop Ecommerce an application.
 
-
+![App diagram](https://github.com/amagicman07/online_shop/blob/a3d760c5e36d1ffa70688b69787efc9a103efb14/Ecommer%20pic%202.PNG)
 
 
  ### PRE-REQUISITES FOR THIS PROJECT:
