@@ -1,5 +1,5 @@
 # Online Shop – Hackathon Phase 1 
-- This is a Online Shop Ecommerce an application.
+- This is a single-Tier e-commerce application (Online Shop).
 
 ![App diagram](https://github.com/amagicman07/online_shop/blob/a3d760c5e36d1ffa70688b69787efc9a103efb14/Ecommer%20pic%202.PNG)
 ![Search Product diagram](https://github.com/amagicman07/online_shop/blob/a4535d5fecd9502d94e56b8980b2b16542326c3b/Ecommerce%20pic%203.PNG)
